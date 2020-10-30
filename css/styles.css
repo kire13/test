@@ -4,9 +4,15 @@ body
     text-align: center;
     font-family: Arial;
 }
+#cabezera
+{
+    background: cyan;
+    color: white;
+}
+
 #container
 {
     width: 700px;
     color: black;
-    
+
 }
